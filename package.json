@@ -1,0 +1,19 @@
+{
+  "name": "com.umairmushtaq.devtoolkit",
+  "version": "1.0.0",
+  "displayName": "Dev Toolkit",
+  "description": "A lightweight Unity Editor toolkit: find & remove missing scripts, batch rename GameObjects/assets, and find asset references.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "keywords": [
+    "editor",
+    "tools",
+    "missing scripts",
+    "batch rename",
+    "find references",
+    "productivity"
+  ],
+  "author": {
+    "name": "Umair Mushtaq"
+  }
+}
